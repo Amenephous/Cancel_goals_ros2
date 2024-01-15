@@ -1,6 +1,6 @@
 # ros2-Cancel_goals
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-1.0-blue)](https://github.com/Your-Username/Iterative-Closest-Point/releases)
+[![Version](https://img.shields.io/badge/Version-1.0-blue)](https://github.com/Amenephous/ros2-Cancel_goals/releases)
 
 
 This repository demonstrates a ROS2 node designed to cancel goals set by rviz2.
